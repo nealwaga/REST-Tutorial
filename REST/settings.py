@@ -40,6 +40,7 @@ INSTALLED_APPS = [
 
     #own
     'tutorial_app'
+    'rest_framework'
 ]
 
 MIDDLEWARE = [
