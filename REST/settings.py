@@ -39,8 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     #own
-    'tutorial_app'
-    'rest_framework'
+    'rest_framework',
+    'web_app',
 ]
 
 MIDDLEWARE = [
